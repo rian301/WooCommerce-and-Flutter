@@ -42,19 +42,19 @@ class _DashBoardPageState extends State<DashBoardPage> {
         images: [
           FittedBox(
             // fit: BoxFit.cover,
-            child: Image.network("https://www.uselionstore.com.br/wp-content/uploads/2021/02/IMG_3903-760x840.jpg"),
+            child: Image.network("image1"),
           ),
           FittedBox(
             // fit: BoxFit.cover,
-            child: Image.network("https://www.uselionstore.com.br/wp-content/uploads/2021/02/IMG_3918-760x840.jpg"),
+            child: Image.network("image2"),
           ),
           FittedBox(
             // fit: BoxFit.cover,
-            child: Image.network("https://www.uselionstore.com.br/wp-content/uploads/2021/02/IMG_4240-760x840.jpg"),
+            child: Image.network("image3"),
           ),
           FittedBox(
             // fit: BoxFit.cover,
-            child: Image.network("https://www.uselionstore.com.br/wp-content/uploads/2021/02/IMG_4220-760x840.jpg"),
+            child: Image.network("image4"),
           ),
         ],
       ),
